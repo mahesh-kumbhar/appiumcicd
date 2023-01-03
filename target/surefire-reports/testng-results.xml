@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-03T15:34:22 IST" name="All Test Suite" finished-at="2023-01-03T15:35:22 IST" duration-ms="59434">
+    <groups>
+    </groups>
+    <test started-at="2023-01-03T15:34:22 IST" name="/Users/capgemini/Desktop/AppiumLearn/LearnJava/FDReactNative3" finished-at="2023-01-03T15:35:22 IST" duration-ms="59434">
+      <class name="tests.LoginTests">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:tests.LoginTests@484970b0]" started-at="2023-01-03T15:34:22 IST" name="beforeTest" finished-at="2023-01-03T15:34:29 IST" duration-ms="7113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:tests.LoginTests@484970b0]" started-at="2023-01-03T15:34:29 IST" name="beforeMethod" finished-at="2023-01-03T15:34:30 IST" duration-ms="164" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoginTests.login()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login()[pri:0, instance:tests.LoginTests@484970b0]" started-at="2023-01-03T15:34:30 IST" name="login" finished-at="2023-01-03T15:34:50 IST" duration-ms="20702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:tests.LoginTests@484970b0]" started-at="2023-01-03T15:34:50 IST" name="beforeMethod" finished-at="2023-01-03T15:34:50 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoginTests.logout()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="logout()[pri:0, instance:tests.LoginTests@484970b0]" started-at="2023-01-03T15:34:50 IST" name="logout" finished-at="2023-01-03T15:35:02 IST" duration-ms="11878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.LoginTests@484970b0]" started-at="2023-01-03T15:35:02 IST" name="afterTest" finished-at="2023-01-03T15:35:03 IST" duration-ms="411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.LoginTests -->
+      <class name="tests.CreateAccountTests">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:tests.CreateAccountTests@1018bde2]" started-at="2023-01-03T15:35:03 IST" name="beforeTest" finished-at="2023-01-03T15:35:09 IST" duration-ms="5983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.CreateAccountTests@1018bde2]" started-at="2023-01-03T15:35:09 IST" name="beforeMethod" finished-at="2023-01-03T15:35:09 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="createAccount()[pri:0, instance:tests.CreateAccountTests@1018bde2]" started-at="2023-01-03T15:35:09 IST" name="createAccount" finished-at="2023-01-03T15:35:21 IST" duration-ms="12733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.CreateAccountTests@1018bde2]" started-at="2023-01-03T15:35:21 IST" name="afterTest" finished-at="2023-01-03T15:35:22 IST" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.CreateAccountTests -->
+    </test> <!-- /Users/capgemini/Desktop/AppiumLearn/LearnJava/FDReactNative3 -->
+  </suite> <!-- All Test Suite -->
+  <suite started-at="2023-01-03T15:35:22 IST" name="All Test Suite (0)" finished-at="2023-01-03T15:36:17 IST" duration-ms="55046">
+    <groups>
+    </groups>
+    <test started-at="2023-01-03T15:35:22 IST" name="/Users/capgemini/Desktop/AppiumLearn/LearnJava/FDReactNative3" finished-at="2023-01-03T15:36:17 IST" duration-ms="55046">
+      <class name="tests.LoginTests">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:tests.LoginTests@2525ff7e]" started-at="2023-01-03T15:35:22 IST" name="beforeTest" finished-at="2023-01-03T15:35:28 IST" duration-ms="5965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:tests.LoginTests@2525ff7e]" started-at="2023-01-03T15:35:28 IST" name="beforeMethod" finished-at="2023-01-03T15:35:28 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoginTests.login()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login()[pri:0, instance:tests.LoginTests@2525ff7e]" started-at="2023-01-03T15:35:28 IST" name="login" finished-at="2023-01-03T15:35:47 IST" duration-ms="19596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:tests.LoginTests@2525ff7e]" started-at="2023-01-03T15:35:47 IST" name="beforeMethod" finished-at="2023-01-03T15:35:47 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoginTests.logout()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="logout()[pri:0, instance:tests.LoginTests@2525ff7e]" started-at="2023-01-03T15:35:47 IST" name="logout" finished-at="2023-01-03T15:35:59 IST" duration-ms="11060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.LoginTests@2525ff7e]" started-at="2023-01-03T15:35:59 IST" name="afterTest" finished-at="2023-01-03T15:35:59 IST" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.LoginTests -->
+      <class name="tests.CreateAccountTests">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:tests.CreateAccountTests@524d6d96]" started-at="2023-01-03T15:35:59 IST" name="beforeTest" finished-at="2023-01-03T15:36:05 IST" duration-ms="5807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.CreateAccountTests@524d6d96]" started-at="2023-01-03T15:36:05 IST" name="beforeMethod" finished-at="2023-01-03T15:36:05 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="createAccount()[pri:0, instance:tests.CreateAccountTests@524d6d96]" started-at="2023-01-03T15:36:05 IST" name="createAccount" finished-at="2023-01-03T15:36:17 IST" duration-ms="11982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.CreateAccountTests@524d6d96]" started-at="2023-01-03T15:36:17 IST" name="afterTest" finished-at="2023-01-03T15:36:17 IST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.CreateAccountTests -->
+    </test> <!-- /Users/capgemini/Desktop/AppiumLearn/LearnJava/FDReactNative3 -->
+  </suite> <!-- All Test Suite (0) -->
+</testng-results>
